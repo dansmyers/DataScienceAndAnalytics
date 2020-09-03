@@ -134,7 +134,7 @@ at least the next year and others will choose to make a large-scale transition t
 | -------------|---------------------------------|--------|--------|-----------------|
 | 1            | Descriptive statistics, visualization, and R  | 9/14     | 9/30       | My Heart Will Go On |
 | 2            | Hypothesis testing          |  9/30    |  10/14     | Human Body Temperature |
-| 3            | Regression          |   10/14   |  10/28      | The Weirdest Project of All Time |
+| 3            | Regression          |   10/14   |  10/28      | Long Bones: the Weirdest Project of All Time |
 | 4            | Intro to supervised learning   | 10/28   |  11/11  | 80's Slasher Movies  |
 | 5            | Unsupervised learning and clustering  |   11/11  | 12/2   |   |
 | 6            | Decision trees   |   12/2  |  12/18  | The Disputed Federalist Papers |
