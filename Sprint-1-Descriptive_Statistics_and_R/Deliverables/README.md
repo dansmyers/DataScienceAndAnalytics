@@ -44,7 +44,7 @@ If you have not already done so, go to Canvas and download `Titanic.xlsx` and th
 
 ### Steps
 
-1.	Use the data dictionary to identify each variable in the dataset as categorical or quantitative. If the variable is categorical, further identify it as ordinal, nominal or an identifier variable.
+1.	Use the data dictionary file posted to Canvas to identify each variable in the dataset as categorical or quantitative. If the variable is categorical, further identify it as ordinal, nominal or an identifier variable.
 
 2.	Using the `ifelse` function covered in the first lab, create a new variable called `Survived.char` that takes on the value `Did Not Survive` when `Survived == 0` and `Survived` when `Survived == 1`.
 
@@ -65,3 +65,4 @@ If you have not already done so, go to Canvas and download `Titanic.xlsx` and th
 
 ### Tips
 
+Review the material for labs 1 and 2. Lab 1 covers importing the dataset into R Studio and creating new variables and subsets. Lab 2 gives examples of plots and frequency tables.
