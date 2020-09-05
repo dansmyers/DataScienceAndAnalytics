@@ -32,7 +32,7 @@ Disclaimer: I may also ask you to do something like this on the quiz.
 
 ## My Heart Will Go On
 
-<img src="https://i.imgur.com/k7Rqy.jpeg" width="50%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/2560px-RMS_Titanic_3.jpg" width="50%" />
 
 In the early hours of April 15, 1912, the "unsinkable" ship *RMS Titanic* sank when it struck an iceberg, killing more than half of the passengers and crew aboard.
 
@@ -64,5 +64,8 @@ If you have not already done so, go to Canvas and download `Titanic.xlsx` and th
 9.	Summarize your findings about survival on the *Titanic* and how a passenger’s ticket class might have affected his or her survival.
 
 ### Tips
+
+<img src="https://i.imgur.com/k7Rqy.jpeg" width="50%" />
+
 
 Review the material for labs 1 and 2. Lab 1 covers importing the dataset into R Studio and creating new variables and subsets. Lab 2 gives examples of plots and frequency tables.
