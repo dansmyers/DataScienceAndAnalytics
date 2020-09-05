@@ -23,7 +23,7 @@ if you have questions that are too in-depth to handle over Slack.
 
 I will plan to be generally available for WebEx appointments on
 
-- Mondays, Wednesdays, and Fridays from 1:30 to 3:00
+- Mondays, Wednesdays, and Fridays from 2:30 to 3:30
 - Tuesdays and Thursdays from 10:00 to 12:00
 
 ## Official Course Description
@@ -36,7 +36,7 @@ At the end of this course, you will be able to:
 
 1. Use standard techniques of descriptive statistics, statistical modeling, and visualization to obtain insights from quantitative data.
 
-2. Formulate, conduct, and interpret hypothesis tests.
+2. Formulate, execute, and interpret hypothesis tests.
 
 3. Create and interpret linear and logistic regression models.
 
@@ -136,7 +136,7 @@ at least the next year and others will choose to make a large-scale transition t
 | 2            | Hypothesis testing          |  9/30    |  10/14     | Human Body Temperature |
 | 3            | Regression          |   10/14   |  10/28      | Long Bones: the Weirdest Project of All Time |
 | 4            | Intro to supervised learning   | 10/28   |  11/11  | 80's Slasher Movies  |
-| 5            | Unsupervised learning and clustering  |   11/11  | 12/2   |   |
+| 5            | Unsupervised learning and clustering  |   11/11  | 12/2   |  Burritos |
 | 6            | Decision trees   |   12/2  |  12/18  | The Disputed Federalist Papers |
 
 ### Other Important Dates
