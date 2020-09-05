@@ -34,7 +34,7 @@ Disclaimer: I may also ask you to do something like this on the quiz.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/2560px-RMS_Titanic_3.jpg" width="50%" />
 
-In the early hours of April 15, 1912, the "unsinkable" ship *RMS Titanic* sank when it struck an iceberg, killing more than half of the passengers and crew aboard.
+In the early hours of April 15, 1912, the "unsinkable" ship RMS *Titanic* sank when it struck an iceberg, killing more than half of the passengers and crew aboard.
 
 The `Titanic.xlsx` dataset contains demographic information for 889 of those passengers as well as a record of whether or not that each passenger survived. Our goal is to describe the distributions of passenger ticket class and passenger survival.
 
