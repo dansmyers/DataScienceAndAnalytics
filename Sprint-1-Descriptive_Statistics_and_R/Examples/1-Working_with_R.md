@@ -1,4 +1,4 @@
-# Lab #1 &ndash; Working with R and R Studio
+# Lab #1 &ndash; Working with R and RStudio
 
 ## Overview
 
