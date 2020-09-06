@@ -156,27 +156,30 @@ The subset function takes two input arguments called `x` and `subset`. Similar t
 
 Type the command to create the Titanic.Firstclass dataset in your R Script and run the code. Then type and run View(Titanic.Firstclass). The new data set will appear in spreadsheet view, and you can confirm that it only contains records from first class passengers. 
 
-Deliverable 7: Create a subset of the Titanic dataset called Titanic.Children that includes only passengers under the age of 18.
+### Deliverable 7: Create a subset of the Titanic dataset called Titanic.Children that includes only passengers under the age of 18.
 
 Similarly, we can create a subset that only includes records for the children who were on board. The first entry in the subset function is still Titanic, but now we modify the subset = entry to read Titanic$Age < 18.  
 
-Titanic.Children <-
-subset(
-        	x = Titanic, 
-        	subset = (Titanic$Age < 18)
-     	  )
+```
+Titanic.Children <- subset(
+    x = Titanic, 
+    subset = (Titanic$Age < 18)
+)
+```
 
 In your R Script, type and run the code to create the Titanic.Children dataset. Note that both Titanic.Firstclass and Titanic.Children now appear under “Data” in the Environment window in the upper right panel of RStudio. Double click on each dataset name in that panel to see them appear in speadsheet view on the upper left.
 
-Deliverable 8: Save, close and re-open an R script.
+### Deliverable 8: Save, close and re-open an R script.
 
 It would be cumbersome to have to go through the process of importing each dataset you want to work with each time you open RStudio. Fortunately, by using and saving R Scripts, you can preserve your work from session to session.
 
 First, find the section of code that appeared in the Console when you imported the Titanic dataset. It will look something like this:
 
+```
 > library(readxl)
 > Titanic <- read_excel(“~[Your directory path]/Titanic.xlsx") 
 > View(Titanic)
+```
 
 Copy and paste those lines of code at the top of your R Script. Running this code when you open RStudio will allow you to import Titanic.xlsx without using menus like we did in Deliverable 2. Make sure to save your R Script 
 
