@@ -1,4 +1,4 @@
-# Lab #3 &ndash; Histograms and Boxplots
+# Lab #3 &ndash; Data Distributions, Histograms, and Boxplots
 
 ## Determine the casualty rate for Union Army soldiers in companies from Ohio during the US Civil War.
 
