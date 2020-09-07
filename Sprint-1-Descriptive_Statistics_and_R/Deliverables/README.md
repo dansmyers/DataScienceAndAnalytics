@@ -2,9 +2,9 @@
 
 ## Submission
 
-Put all of your answers in a well-organized Word document and upload it to the Sprint 1 Deliverable Assignment posted to Canvas.
+Create **one** well-organized Word document containing your answer to each question, including your RStudio scripts. Upload it to the Sprint 1 Deliverable Assignment posted to Canvas.
 
-Please include:
+At the beginning of the document, please include:
 
 - Your name
 - A statement of the Honor Code
@@ -69,3 +69,20 @@ If you have not already done so, go to Canvas and download `Titanic.xlsx` and th
 
 
 Review the material for labs 1 and 2. Lab 1 covers importing the dataset into R Studio and creating new variables and subsets. Lab 2 gives examples of plots and frequency tables.
+
+
+## Brains
+
+<img src="https://i.redd.it/e0abfjlvh8221.jpg" width="50%" />
+
+The `Brainhead.xlsx` dataset (posted to Canvas) provides information on 237 individuals who were subject to post-mortem examination at the Middlesex Hospital in London around the turn of the 20th century3. Study authors used cadavers to see if a relationship between brain weight and other, more easily measured, physiological characterizes such as age, sex, and head size could be determined. The end goal was to develop a way to estimate a person’s brain size while they were still alive (as the living aren’t keen on having their brains taken out and weighed). We wish to use this data to determine the weight of a “typical” human brain. 
+
+## Steps
+
+1.	Download and import the `Brainhead.xlsx` dataset into RStudio. Use the data dictionary to identify each variable in the dataset as categorical or quantitative. If the variable is categorical, further identify it as ordinal, nominal or an identifier variable. If the variable is quantitative, identify it as discrete or continuous.
+
+2.	Draw a histogram and a boxplot displaying the distribution of brain weight. 
+
+3.	Based on the shape of the distribution of brain weight, determine and calculate the appropriate measures of the center and spread of the data.
+
+4.	Draw conclusions about the weight of a typical adult human brain.  
