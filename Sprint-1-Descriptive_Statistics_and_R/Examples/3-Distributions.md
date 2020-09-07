@@ -2,6 +2,8 @@
 
 ## Determine the casualty rate for Union Army soldiers in companies from Ohio during the US Civil War.
 
+<img src="https://cdn.vox-cdn.com/thumbor/QLNPVrHIHh4B9di6ASQFwhs5u8s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13074961/civil_war_troops.0.0.0.0.1526055161.jpg" width="50%" />
+
 Approximately 618,000 Union and Confederate soldiers died in battle and from starvation and disease during the single bloodiest conflict in United States history: The Civil War. To put this in perspective, about 400,000 US soldiers perished during the second-most-deadly conflict, World War II. Despite the terrible conditions soldiers faced in the field, remarkably good records about these men, their backgrounds, and their fates have been preserved.  
 
 The `Ohio.xlsx` dataset contains records from 45 companies from Ohio during the United States Civil War including the number of soldiers in the company, the year the company was formed, details about the demographic make-up of each company as well as the overall mortality and mortality due to injury and illness. We wish to describe the mortality rates for these companies from Ohio during the US Civil War.
