@@ -126,7 +126,7 @@ The next possibility is that there was an error reading in the data from Excel i
 
 Now we must consider a possible error converting the data from its previous form into the Excel spreadsheet. The dataset is taken from this paper:
 
->> C. Lee (1999). "Selective Assignment of Military Positions in the Union Army: Implications for the Impact of the Civil War", Social Science History, Vol. 23, #1, pp 67-97.
+> C. Lee (1999). "Selective Assignment of Military Positions in the Union Army: Implications for the Impact of the Civil War", Social Science History, Vol. 23, #1, pp 67-97.
 
 Does the data in our current Excel spreadsheet match what is reported in that paper? At this point, I encourage you to use your library’s web reference to obtain a copy and examine Table 3. Again, with 45 observations, it’s not too time consuming to check every record to make sure that the data in the table matches the data in the Excel spreadsheet.  
 
