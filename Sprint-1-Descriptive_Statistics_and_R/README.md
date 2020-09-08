@@ -116,3 +116,5 @@ in the `Examples` directory to review any parts you find challenging.
 - **Don't wait until the last minute**! You won't have time to finish everything if you don't start promptly.
 
 - The lab documents are important resources. Review them and use them as references when completing the homework projects.
+
+- Remember that you're allowed to work with members of your team and use any other web resources you find useful.
