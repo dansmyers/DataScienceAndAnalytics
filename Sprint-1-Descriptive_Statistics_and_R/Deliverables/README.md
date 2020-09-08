@@ -73,7 +73,7 @@ Review the material for labs 1 and 2. Lab 1 covers importing the dataset into R 
 
 ## Brains
 
-<img src="https://i.redd.it/e0abfjlvh8221.jpg" width="50%" />
+<img src="https://i.redd.it/e0abfjlvh8221.jpg" width="30%" />
 
 The `Brainhead.xlsx` dataset (posted to Canvas) provides information on 237 individuals who were subject to post-mortem examination at the Middlesex Hospital in London around the turn of the 20th century3. Study authors used cadavers to see if a relationship between brain weight and other, more easily measured, physiological characterizes such as age, sex, and head size could be determined. The end goal was to develop a way to estimate a person’s brain size while they were still alive (as the living aren’t keen on having their brains taken out and weighed). We wish to use this data to determine the weight of a “typical” human brain. 
 
