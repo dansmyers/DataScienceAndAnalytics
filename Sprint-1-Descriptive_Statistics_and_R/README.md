@@ -102,3 +102,13 @@ the basics:
 
 I will not make you perform extensive calculations by hand (no one does that in real life), but you should be able to manually calculate means, medians, quartiles, the five 
 number summary, and variance for small data sets.
+
+
+## Recommended Schedule and Tips
+
+- **Week 1**: Complete Chapter 1 of the ZyBook and the first homework problem on statistical calculations. We will complete Lab 1 in class and you should use the document
+in the `Examples` directory to review any parts you find challenging.
+
+- **Week 2**: Complete Chapter 2 of the ZyBook. We will complete Labs 2 and 3 in class, after which you will be able to complete the remaining two homework problems.
+
+- **Week 3 before the quiz**: Complete the last problem using Lab 3 as a reference if you didn't finish it during the second week. Finish any remaining ZyBook questions.
