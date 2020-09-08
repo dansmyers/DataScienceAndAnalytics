@@ -112,3 +112,7 @@ in the `Examples` directory to review any parts you find challenging.
 - **Week 2**: Complete Chapter 2 of the ZyBook. We will complete Labs 2 and 3 in class, after which you will be able to complete the remaining two homework problems.
 
 - **Week 3 before the quiz**: Complete the last problem using Lab 3 as a reference if you didn't finish it during the second week. Finish any remaining ZyBook questions.
+
+- **Don't wait until the last minute**! You won't have time to finish everything if you don't start promptly.
+
+- The lab documents are important resources. Review them and use them as references when completing the homework projects.
