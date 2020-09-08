@@ -36,7 +36,7 @@ Disclaimer: I may also ask you to do something like this on the quiz.
 
 In the early hours of April 15, 1912, the "unsinkable" ship RMS *Titanic* sank when it struck an iceberg, killing more than half of the passengers and crew aboard.
 
-The `Titanic.xlsx` dataset contains demographic information for 889 of those passengers as well as a record of whether or not that each passenger survived. Our goal is to describe the distributions of passenger ticket class and passenger survival.
+The `Titanic.xlsx` dataset contains demographic information for 889 of those passengers as well as a record of whether or not each passenger survived. Our goal is to describe the distributions of passenger ticket class and passenger survival.
 
 ### Download the Dataset
 
