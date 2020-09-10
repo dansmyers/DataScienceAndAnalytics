@@ -61,29 +61,28 @@ given a small input data set. Know about the **mode** of a categorical data set.
 
 3. The concept of **percentiles** of a quantitative data set. Be able to calculate the **quartiles** and **interquartile range** of an example data set.
 
-4. The concept of **outliers** in a data set. Using the interquartile range to identify outliers.
+4. The concept of **outliers** in a data set. Using the interquartile range to identify outliers. Understand that outliers may be due to errors, but they may also be natural features of the dataset or unusual, but still correct, data values.
 
 5. The **standard deviation** and **variance** as the most important measures of spread. Be able to calculate both values for a small example data set.
 
-6. **Standard features of Python programming**: variables, conditionals, loops, functions, etc.
+6. Importing datasets into RStudio and performing basic dataset manipulations using `ifelse` and `subset`.
 
-7. Python's important built-in data structures: **lists** (like a Java `ArrayList`) and **dictionaries** (like Java's `HashMap`)
+7. Creating bar charts, pie charts, and frequency tables in RStudio and using them to draw conclusions about a dataset.
 
-8. **Opening a file in Python** and processing it line by line. Extracting the data values on each line into a data structure for later processing.
+8. **Box plots** as visualizations of a quantitative data set, both interpreting them and creating them in R.
 
-9. **Box plots** as visualizations of a quantitative data set, both interpreting them and creating them in `matplotlib`.
+9. **Histograms** as visualizations of a quantitative data set. Again, know how to interpret them and create them in R.
 
-10. **Histograms** as visualizations of a quantitative data set. Again, know how to interpret them and create them in `matplotlib`.
-
-
+I will not make you perform extensive calculations by hand (no one does that in real life), but you should be able to manually calculate means, medians, quartiles, the five 
+number summary, and variance for small data sets.
 
 
 ## Resources
 
 ### R
 
-Most of our class time in the first two weeks will be spent getting familiar with R Studio. The `Examples` directory contains instructions for installing R Studio, along with
-three labs that we'll work through in class.
+Most of our class time in the first two weeks will be spent getting familiar with R and RStudio. The `Examples` directory contains instructions for installing R Studio, along 
+with three labs that we'll work through in class.
 
 Each lab walks you through the analysis of a real data set. **Everything that you need to complete the project is covered in the labs**.
 
@@ -99,9 +98,6 @@ the basics:
 - [Box plots](https://www.youtube.com/watch?v=CJlvCxHMB_4&list=PL3NllU3-qaWJQmITLdyDKxqMatjhTomR1&index=12) (you only need the first three minutes)
 - [Creating histograms](https://www.youtube.com/watch?v=gSEYtAjuZ-Y)
 - [Variance](https://www.youtube.com/watch?v=E4HAYd0QnRc) (the key idea is the concept of variance as the average squared distance from the mean)
-
-I will not make you perform extensive calculations by hand (no one does that in real life), but you should be able to manually calculate means, medians, quartiles, the five 
-number summary, and variance for small data sets.
 
 
 ## Recommended Schedule and Tips
