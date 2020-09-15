@@ -10,9 +10,9 @@ Note that, while this book focuses on using RStudio, the R software must be inst
 
 To install R on Windows:
 
-1.	Open “http://www.r-project.org” in your browser.
+1.	Open [http://www.r-project.org] in your browser.
 2.	Click on “download R” in the paragraph under “Getting Started”. You’ll see a list of mirror sites organized by country.
-3.	Click on “https://cloud.r-project.org/” under the heading “0-Cloud”.  
+3.	Click on [https://cloud.r-project.org/] under the heading “0-Cloud”.  
 4.	Click on “Download R for Windows” under the heading “Download and Install R”.
 5.	Click on “base”.
 6.	Click on the link for downloading the latest version of R.
@@ -20,9 +20,9 @@ To install R on Windows:
 
 To install R on OS X:
 
-1.	 Open “http://www.r-project.org” in your browser.
+1.	 Open [http://www.r-project.org] in your browser.
 2.	Click on “download R” in the paragraph under “Getting Started”. You’ll see a list of mirror sites organized by country.
-3.	Click on “https://cloud.r-project.org/” under the heading “0-Cloud”.  
+3.	Click on [https://cloud.r-project.org/] under the heading “0-Cloud”.  
 4.	Click on “Download R for (Mac) OS X” under the heading “Download and Install R”.
 5.	Click on the .pkg file for the most recent version of R under “Latest Release”.
 6.	Click on the link for downloading the latest version of R.
@@ -30,7 +30,7 @@ To install R on OS X:
 
 Once you have R installed on your computer, you must install RStudio.
 
-1.	Open “https://www.rstudio.com/” in your browser.
+1.	Open [https://www.rstudio.com/] in your browser.
 2.	Click on “Download”.
 3.	Click on “Download” under “RStudio Desktop Open Source License”.
 4.	Click on the appropriate (Mac or Windows) file under “Installers” to download RStudio.
