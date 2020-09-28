@@ -35,19 +35,13 @@ and ask me if you have questions about what is an acceptable resource!
 
 ## Reading
 
-Complete the **participation questions** for Chapters 1 and 2 of the ZyBook. You do not need to complete the challenge questions or any sections marked as optional.
+Complete the **participation questions** for Chapter 5 of the ZyBook. You do not need to complete the challenge questions or any sections marked as optional.
 
 ## Learning Outcomes
 
 At the end of this sprint, you will be able to
 
-- Open and manipulate data sets in R Studio using common features of the R language.
-
-- Calculate standard summary statistics: mean, median, quartiles, interquartile range, standard deviation, variance.
-
-- Use R to create box plots and histograms of data.
-
-- Use summary statistics and plots to derive useful insights from a data set.
+- 
 
 
 ## What You Need to Learn
