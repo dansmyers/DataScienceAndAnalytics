@@ -1,6 +1,6 @@
 # Challenge Project: Research Question
 
-<img src="https://image.sciencenorway.no/1618713.jpg?imageId=1618713&x=0&y=0&cropw=100&croph=100&width=480&height=229" width="50%" />
+<img src="https://image.sciencenorway.no/1618713.jpg?imageId=1618713&x=0&y=0&cropw=100&croph=100&width=480&height=229" width="100%" />
 
 *Charles Joseph Minard's famous map showing the advance of Napoleon's army during the 1812 invasion of Russia and the subsequent retreat following the Battle of Moscow. The thickness of the 
 line represents the size of the army. Napoleon began with an army of more than 650,000 men, the largest assembled in Europe up to that point; the survivors of
