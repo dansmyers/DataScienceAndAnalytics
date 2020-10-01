@@ -100,7 +100,7 @@ set.seed(1234)
 The following sample function (below inside the brackets) instructs R to select a random subset of 75 rows from the Disney dataset. Type and run the following line of code to select the SRS of 75 participants.
 
 ```
-Disney.SRS<-Disney[sample(nrow(Disney), 75), ]
+Disney.SRS <- Disney[sample(nrow(Disney), 75), ]
 ```
 
 We can now use the mean function to calculate the mean finishing time in the SRS.
