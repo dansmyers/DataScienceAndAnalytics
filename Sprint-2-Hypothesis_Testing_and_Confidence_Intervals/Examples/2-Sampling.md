@@ -315,7 +315,7 @@ The first entry in the cluster function is the dataset we want to sample from. T
 Unlike the `stratified` function, the `cluster` function does not return all the variable values along with the rows of data selected for the sample. We have to take one more step and use the getdata function, which will return all of the rows of NHL that appear in `cl` (the players on the three teams selected by the cluster function).
 
 ```
-NHL.cluster<-getdata(NHL,cl)
+NHL.cluster <- getdata(NHL,cl)
 ```
 
 Finally, we can calculate the mean height of the players in the cluster sample.
