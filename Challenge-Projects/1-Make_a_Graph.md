@@ -28,6 +28,8 @@ This may serve as useful preparation if you are planning on doing a thesis proje
 
 ### Formulating Your Research Question
 
+<img src="https://www.edwardtufte.com/tufte/graphics/vdqi_bookcover.gif" width="50%" />
+
 There are lots of different approaches to research. Indeed, in some fields, you have to establish and entire **philosophy** of research before you can even begin to conduct a
 study. In this project, we're going to focus on formulating a research question that can be answered using the visual presentation of quantitative information. That means you
 want to formulate a question that can be answered, in one way or another, by looking at data plotted on a graph.
