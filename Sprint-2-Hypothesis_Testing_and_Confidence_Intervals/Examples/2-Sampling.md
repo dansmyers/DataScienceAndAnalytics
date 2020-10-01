@@ -42,7 +42,7 @@ Project deliverables:
 
 The first variable is ID, which is a categorical identifier variable used to identify each runner in the 2020 Disney Marathon. The second variable is gender, which is a nominal, categorical variable that identifies the participant’s gender. The third variable is age, which is a continuous, quantitative variable that identifies the participant’s age in years. The fourth variable is group, which is an ordinal, categorical variable that places each individual in an age-gender group. The fifth variable is time, which is a quantitative, continuous variable that lists the participant’s finishing time in hours.
 
-## Deliverable 2: Calculate the mean finishing time for all 2020 Disney Marathon race participants.  
+### Deliverable 2: Calculate the mean finishing time for all 2020 Disney Marathon race participants.  
 
 Run the following mean function to calculate the mean finishing time.
 
