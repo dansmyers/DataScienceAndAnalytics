@@ -74,7 +74,7 @@ Men and women between the ages of 25 and 45 made up the largest proportion of pa
 
 In previous analyses, we used boxplots to display and describe the distribution of a single continuous variable. However, it can also be useful to print multiple boxplots side-by-side so you can compare their distributions.
 
-Type and run the following boxplot function in an R Script to generate Figure 7.1. The argument `Disney$time ~ Disney$group` instructs R to create a boxplot of finishing time for every age-sex group. The `las = 2` statement causes the boxplot labels to be rotated 90 degrees, and `xlab = ' '` will cause the x-axis to remain blank (printed x-axis text gets in the way of the rotated boxplot labels in this figure). 
+Type and run the following boxplot function in an R Script. The argument `Disney$time ~ Disney$group` instructs R to create a boxplot of finishing time for every age-sex group. The `las = 2` statement causes the boxplot labels to be rotated 90 degrees, and `xlab = ' '` will cause the x-axis to remain blank (printed x-axis text gets in the way of the rotated boxplot labels in this figure). 
 
 ```
 boxplot(
