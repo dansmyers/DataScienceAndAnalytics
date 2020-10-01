@@ -1,4 +1,4 @@
-# Challenge Project: Research Question
+# Challenge Project: Make a Graph
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png" width="100%" />
 
