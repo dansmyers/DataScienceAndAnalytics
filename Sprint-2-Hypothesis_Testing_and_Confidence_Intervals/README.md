@@ -50,7 +50,7 @@ interpret the results. Give correct interpretations of p-values and statistical 
 
 ## What You Need to Learn
 
-1. The Normal distribution and the 68-95-99.7 empirical rule.
+1. The Normal distribution and the 69-95-99.7 empirical rule.
 
 2. Calculating z-scores for members of a population given the population mean and standard deviation.
 
