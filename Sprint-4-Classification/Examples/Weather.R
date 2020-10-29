@@ -1,6 +1,4 @@
-# Analyze weather data set from rattle.data using logistic regression
-
-# Given 
+# Analyze weather data set from rattle.data using logistic regression 
 
 library(rattle.data)
 View(weather)
@@ -73,10 +71,11 @@ weather.probs <- predict(weather.glm, type="response")
 # Map the probabilities to a Yes/No value
 # The first line creates a vector of 366 "No" values and the second converts
 # entries with prob. > .50 to "Yes"
-weather.pred <- rep("No", 366)
-weather.pred[weather.probs > .50] = "Yes"
+weather.pred <- rep(0, 366)
+weather.pred[weather.probs > .50] = 1
 
 # Plot a table of outcomes
 #
 # The table shows that our model predicts all values of RainTomorrow as "No"
 table(weather.pred, weather.features$RainTomorrow.num)
+mean(weather.pred == weather.features$RainTomorrow.num)
