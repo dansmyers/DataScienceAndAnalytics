@@ -82,7 +82,7 @@ train <- sample(c(TRUE, FALSE), nrow(Auto), replace=T, prob = c(.7, .3))
 Auto.test <- Auto[!train, ]
 ```
 
-- Construct a linear regression model to predict the probability that a vehicle is high or low mileage. Make sure to train on only the training set. 
+- Construct a logistic regression model to predict the probability that a vehicle is high or low mileage. Make sure to train on only the training set. 
 
 - Use `summary` to investigate which predictors appear to be significant.
 
