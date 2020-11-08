@@ -82,7 +82,12 @@ train <- sample(c(TRUE, FALSE), nrow(Auto), replace=T, prob = c(.7, .3))
 Auto.test <- Auto[!train, ]
 ```
 
-- Construct a logistic regression model to predict the probability that a vehicle is high or low mileage. Make sure to train on only the training set. 
+- Construct a logistic regression model to predict the probability that a vehicle is high or low mileage. Make sure to train on only the training set. Tip: to use the
+`train` vector, pass it to `glm` using the `subset` parameter. Here's the comparable example from the `Smarket.r` file in the `Examples` directory:
+
+```
+glm.fits = glm(Direction ~ Lag1 + Lag2 + Lag3 + Lag4 + Lag5 + Volume, data=Smarket ,family=binomial ,subset=train)
+```
 
 - Use `summary` to investigate which predictors appear to be significant.
 
