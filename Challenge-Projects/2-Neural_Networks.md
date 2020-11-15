@@ -57,6 +57,8 @@ w_1 = .5  (weight for input x_1)
 w_2 = .5  (weight for input x_2)
 
 w_0 = 0   (constant input)
+
+eta (learning rate) = .25
 ```
 
 
