@@ -164,6 +164,4 @@ Suppose there are only two students: Hermione and her best friend Victoria Potte
 P(Both are born on two different days) = (365 / 365) * (364 / 365)
 ```
 
-Hermoine's birthday can be on any day, but Victoria's must occur randomly on one of the other 364 days.
-
-What if there are three students? How about more?
+Hermoine's birthday can be on any day, but Victoria's must occur randomly on one of the other 364 days. What if there are three students? How about more?
