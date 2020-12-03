@@ -154,11 +154,9 @@ Birthdays are important in the Wizarding World. Sharing a birthday with another 
 
 There are a total of 40 students in Hermoine's year at Hogwarts. What's the probability that no two students in Hermoine's year share the same birthday?
 
-Tip: Assume that there are 365 possible birthdays (wizards can't be born on Leap Days) and that wizards are equally likely to be born on any day of the year.
+Tip: 
 
-Tip-Tip:
-
-Suppose there are only two students: Hermione and her best friend Victoria Potter, the Girl-Who-Lived.
+Assume that there are 365 possible birthdays (wizards can't be born on Leap Days) and that wizards are equally likely to be born on any day of the year. Suppose there are only two students: Hermione and her best friend Victoria Potter, the Girl-Who-Lived.
 
 ```
 P(Both are born on two different days) = (365 / 365) * (364 / 365)
