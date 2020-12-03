@@ -1,7 +1,7 @@
-# Sprint 2 &ndash; Introduction to Probability
+# Sprint 6 &ndash; Probability and Bayesian Models
 
-## Starts Wednesday 9/30
-## Deliverables and quiz are due on Wednesday 10/14
+## Starts Wednesday 12/2
+## Deliverables and quiz are due on Friday 12/18
 
 
 <img src="https://imgs.xkcd.com/comics/seashell_2x.png" width="35%" />
