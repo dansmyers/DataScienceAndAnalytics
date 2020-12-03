@@ -64,7 +64,7 @@ Hints:
 
 - After she has two cards, she'd expect to open 30 / 28 ~ 1.0714 cards to find a third unique card.
 
-This problem is based on a classic called the Coupon Collector's Problem. It's related to the geometric distribution, which we'll talk about in the next sprint.
+This problem is based on a classic called the Coupon Collector's Problem. It's related to the geometric distribution.
 
 ### Hat Problem
 
