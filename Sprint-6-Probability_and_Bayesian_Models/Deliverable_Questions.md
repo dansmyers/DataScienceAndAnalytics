@@ -1,18 +1,10 @@
 # Hermione Granger and the Distributions of Probability
 
+<img src="https://64.media.tumblr.com/d85b44001002bb249c42b27e00d8dccb/tumblr_nzrkzfmjZW1s5b5tzo1_500.jpg" width="40%" />
+
 ## Disclaimer
 
 This problem set is a work of fan fiction. Hermione Granger and related characters were created by J.K. Rowling. Please don't sue me.
-
-<img src="https://64.media.tumblr.com/d85b44001002bb249c42b27e00d8dccb/tumblr_nzrkzfmjZW1s5b5tzo1_500.jpg" width="40%" />
-
-## Honor Code
-
-Edit this section to include a statement of the Honor Code.
-
-## List Your Team Members
-
-Edit this section to include a list of everyone on your team.
 
 ## Instructions
 
@@ -101,7 +93,7 @@ Hogwarts is so magical that the stairs constantly rearrange themselves.  This ha
 students between floors and reduce, but not eliminate, the peril of leaving your room to attend classes and meals.
 
 The school has fifteen floors. The Dumblevator continually moves between the first floor and the fifteenth floor in the order 1, 2, 3 ... 13, 14, 15, 14, 13 
-... 3, 2, 1, and so forth. Any time spent stopped at a floor is negligible compared to the time moving between floors.
+... 3, 2, 1, and so forth. The Dumblevator moves instantly between floors and stops at each floor long enough for the students to get on or off.
 
 Hermione's last class ends at 5 PM on the thirteenth floor and she wants to go down to the first floor to reach the Great Hall for dinner. What is the probability that the Dumblevator is moving **down** when it arrives at the thirteenth floor for the first time after Hermione leaves her class?
 
@@ -111,7 +103,7 @@ Tips:
 
 - If Hermione boards a down-moving elevator at the 13th floor, where must it have been when she arrived to wait?
 
-- Try reasoning about a smaller number of floors and drawing a picture.
+- At floors 1 and 15 the elevator makes a stop and then turns around to go the opposite direction.
 
 
 ### Urn While You Learn
@@ -158,11 +150,9 @@ Hint-hint: There's going to be a summation. You can look up the result if you do
 
 <img src="https://64.media.tumblr.com/3ee467fbfc590a59e079ddfe7f93d34d/tumblr_psp65oRMS91s5b5tzo1_500.jpg" width="40%" />
 
-There are a total of 40 students in Hermoine's year at Hogwarts.
+Birthdays are important in the Wizarding World. Sharing a birthday with another witch or wizard can create a magical bond between the two of you, leading to all sorts of ridiculous hijinks.
 
-Birthdays are important in the Wizarding World. Sharing a birthday with another witch or wizard can create a magical bond between the two of you, leading to all sorts of ridiculous hijinks. This is why wizard twins are always crazy.
-
-What's the probability that no two students in Hermoine's year share the same birthday?
+There are a total of 40 students in Hermoine's year at Hogwarts. What's the probability that no two students in Hermoine's year share the same birthday?
 
 Tip: Assume that there are 365 possible birthdays (wizards can't be born on Leap Days) and that wizards are equally likely to be born on any day of the year.
 
