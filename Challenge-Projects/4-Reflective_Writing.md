@@ -12,8 +12,6 @@ There are no right or wrong answers, but focus on interrogating your own experie
 on any other experiences or sources that are helpful in answering the questions. Write at least one decent-length paragraph for each question;
 your full set of answers will probably be 2-3 pages.
 
-Upload your responses to Canvas on or before the day of the final exam.
-
 ## Questions
 
 1. Think back to how you felt at the beginning of the course. What were your expectations?
