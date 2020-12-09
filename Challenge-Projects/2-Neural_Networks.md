@@ -53,8 +53,8 @@ x_1    x_2   |    output
 Use the following parameters for the perceptron initialization:
 
 ```
-w_1 = .5  (weight for input x_1)
-w_2 = .5  (weight for input x_2)
+w_1 = -.5  (weight for input x_1)
+w_2 = -.5  (weight for input x_2)
 
 w_0 = 0   (constant input)
 
