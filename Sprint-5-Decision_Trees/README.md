@@ -9,7 +9,7 @@
 
 Our main goal for this unit is to study two more important classification techniques: **decision trees** and **neural networks**.
 
-A decision tree is a hierarchical flowchart where the leaves at the bottom of the tree represent classiication decisions. Using a decision tree to classify an item is
+A decision tree is a hierarchical flowchart where the leaves at the bottom of the tree represent classification decisions. Using a decision tree to classify an item is
 straightforward: start at the top of the tree and work your way down, following the appropriate branch at each level based upon the features of the item under consideration.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Decision_Tree.jpg" width="50%" />
