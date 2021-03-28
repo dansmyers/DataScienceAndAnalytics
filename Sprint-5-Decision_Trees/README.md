@@ -14,7 +14,7 @@ straightforward: start at the top of the tree and work your way down, following 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Decision_Tree.jpg" width="50%" />
 
->*Example decision tree for the Titanic data set. The numbers in each leaf node are the probability of survival and the total fraction of the data set associated with that >outcome. 73% of women survived accounting for 36% of passengers. Men over the age of 9.5 were 61% of all passengers but had only a 17% survival rate.*
+>*Example decision tree for the Titanic data set. The numbers in each leaf node are the probability of survival and the total fraction of the data set associated with that outcome. 73% of women survived accounting for 36% of passengers. Men over the age of 9.5 were 61% of all passengers but had only a 17% survival rate.*
 
 We're going to be interested in **building** decision trees from data. This is a supervised learning problem: given a set of labeled training examples, we'd like to 
 construct the best possible decision tree for classifying them. This turns out to be an interesting problem, and along the way we'll get to learn a little bit of
