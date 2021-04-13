@@ -68,17 +68,11 @@ Here's the only guideline for this step:: **Your data set must be publically ava
 There are lots of potential sources:
 
 - There are many repositories of public data sets on the Internet.
-
 - Sports statistics are readily available.
-
 - The Kaggle site has lots of interesting data sets used for analytics and machine learning competitions.
-
 - Metacritic and other sites that aggregate review information.
-
 - Box office data or book publishing numbers are also available through Wikipedia or other sites.
-
 - Many companies publish internal data in blog posts.
-
 - You could consult with a librarian to help you!
 
 **Your data set is not required to be from a peer-reviewed source**, so you are able to work with information from a wider range of domains without needing to conduct
@@ -96,11 +90,8 @@ We've talked about some important graphs, but RStudio can do many more. There's 
 Remember some key rules of good graphing:
 
 - Choose the appropriate graph style. For example, don't use a line plot for discrete data: a bar chart or scatter plot usually makes more sense.
-
 - Label your axes and include units.
-
 - Begin the vertical axis at zero unless you have a very good reason not to.
-
 - Use colors or line styles to distinguish between categories, if necessary.
 
 ### Report
