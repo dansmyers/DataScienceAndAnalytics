@@ -45,9 +45,8 @@ and refining a core question that will motivate your study: it makes every aspec
 
 For this project, a good research question is **one that has a definite answer**.
 
-- It might be a yes/no question.
-
-- It might be aa question about which of two things is larger, or better by some measurement.
+- A yes/no question.
+- A question about which of two things is larger or better by some measurement.
 
 There are certainly important research projects that focus on more open-ended investigations of systems, processes, or cultures, but they're beyond the scope of what
 we're trying to do here.
@@ -55,11 +54,8 @@ we're trying to do here.
 Think about formulating a question with the following qualities:
 
 - It's a question, not a statement.
-
 - It has a relatively small set of potential answers.
-
 - You don't know the answer in advance; any of the possible answers could be reasonable.
-
 - Questions that start with *Which*, *What*, *Who*, *How many*, or similar phrases are often good. Questions that start with *How*, or *Why* are more like process questions,
 and require different set of investigative techniques.
 
