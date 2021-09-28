@@ -107,7 +107,7 @@ the fields and their types.
 
 - **Conclusion (one to three sentences)**: Restate the key findings of your study.
 
-- **Refernce**: Give the link or citation for your data set. **This is the only reference you need to include**.
+- **Reference**: Give the link or citation for your data set. **This is the only reference you need to include**.
 
 ## Submission and Grading
 
