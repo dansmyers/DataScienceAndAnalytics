@@ -1,6 +1,6 @@
 # Sprint 5 &ndash; Decision Trees and Neural Networks
 
-<img src="https://imgs.xkcd.com/comics/trained_a_neural_net_2x.png" width="30%" />
+<img src="https://imgs.xkcd.com/comics/map_age_guide_2x.png" width="66%" />
 
 ## Starts Wednesday, 11/11
 ## Deliverables and quiz are due on Wednesday, 12/2
