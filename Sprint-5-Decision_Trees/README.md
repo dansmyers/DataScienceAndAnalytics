@@ -1,4 +1,4 @@
-# Sprint 5 &ndash; Decision Trees
+# Sprint 3 &ndash; Decision Trees
 
 <img src="https://imgs.xkcd.com/comics/map_age_guide_2x.png" width="100%" />
 
