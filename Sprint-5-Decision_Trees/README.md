@@ -2,8 +2,8 @@
 
 <img src="https://imgs.xkcd.com/comics/map_age_guide_2x.png" width="100%" />
 
-## Starts Wednesday, 11/11
-## Deliverables and quiz are due on Wednesday, 12/2
+## Starts Thursday, 2/23
+## Deliverables and quiz are due on Wednesday, 3/8
 
 ## Overview and Goals
 
